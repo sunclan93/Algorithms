@@ -8,7 +8,7 @@ class Node {
         this.end = end;
     }
 }
-// this is a test
+// this is a test，and i am happy
 public class SegmentTree {
     int[] nums;
     Node root;
